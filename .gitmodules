@@ -1,2 +1,205 @@
 [submodule "Applications/KnightOS Studio"]
 	path = Applications/KnightOS Studio
+	url = https://github.com/KnightOS/KnightOS Studio.git
+	url = https://github.com/Lancelotbronner/knightos-studio.git
+[submodule "Applications/Simulator"]
+	path = Applications/Simulator
+	url = https://github.com/Lancelotbronner/knightos-simulator.git
+[submodule "Community/calculator"]
+	path = Community/calculator
+	url = https://github.com/ben-g0/calculator.git
+[submodule "Community/CoreLibCDemo"]
+	path = Community/CoreLibCDemo
+	url = https://github.com/MaxLeiter/CoreLibCDemo.git
+[submodule "Community/CountingDemoDec"]
+	path = Community/CountingDemoDec
+	url = https://github.com/MaxLeiter/CountingDemoDec.git
+[submodule "Community/fx3dlib"]
+	path = Community/fx3dlib
+	url = https://github.com/matrefeytontias/fx3dlib.git
+[submodule "Community/hufflib"]
+	path = Community/hufflib
+	url = https://github.com/thirtythreeforty/hufflib.git
+[submodule "Community/kalculator"]
+	path = Community/kalculator
+	url = https://github.com/aviallon/kalculator.git
+[submodule "Community/Kiano"]
+	path = Community/Kiano
+	url = https://github.com/Ivoah/Kiano.git
+[submodule "Community/KIMP"]
+	path = Community/KIMP
+	url = https://github.com/MaxLeiter/KIMP.git
+[submodule "Community/knightos-nix"]
+	path = Community/knightos-nix
+	url = https://github.com/siraben/knightos-nix.git
+[submodule "Community/KnightOS-simulator"]
+	path = Community/KnightOS-simulator
+	url = https://github.com/MaxLeiter/KnightOS-simulator.git
+[submodule "Community/knighttest"]
+	path = Community/knighttest
+	url = https://github.com/Willem3141/knighttest.git
+[submodule "Community/KOS-TunnelGame"]
+	path = Community/KOS-TunnelGame
+	url = https://github.com/Axenntio/KOS-TunnelGame.git
+[submodule "Community/kpico"]
+	path = Community/kpico
+	url = https://github.com/Snektron/kpico.git
+[submodule "Community/life"]
+	path = Community/life
+	url = https://github.com/Ivoah/life.git
+[submodule "Community/LockScreen"]
+	path = Community/LockScreen
+	url = https://github.com/EphraimB/LockScreen.git
+[submodule "Community/pong"]
+	path = Community/pong
+	url = https://github.com/MaxLeiter/pong.git
+[submodule "Community/progcalc"]
+	path = Community/progcalc
+	url = https://github.com/ddevault/progcalc.git
+[submodule "Community/rubik"]
+	path = Community/rubik
+	url = https://github.com/Ivoah/rubik.git
+[submodule "Community/WizardC8-for-KnightOS"]
+	path = Community/WizardC8-for-KnightOS
+	url = https://github.com/EphraimB/WizardC8-for-KnightOS.git
+[submodule "Community/z80e-sdl-win"]
+	path = Community/z80e-sdl-win
+	url = https://github.com/matrefeytontias/z80e-sdl-win.git
+[submodule "Community/ztetris"]
+	path = Community/ztetris
+	url = https://github.com/unlimitedbacon/ztetris.git
+[submodule "Distribution/docker"]
+	path = Distribution/docker
+	url = https://github.com/KnightOS/docker.git
+[submodule "Distribution/homebrew-knightos"]
+	path = Distribution/homebrew-knightos
+	url = https://github.com/Lancelotbronner/knightos-homebrew-knightos.git
+[submodule "OS/kernel"]
+	path = OS/kernel
+	url = https://github.com/KnightOS/kernel.git
+[submodule "OS/KnightOS"]
+	path = OS/KnightOS
+	url = https://github.com/KnightOS/KnightOS.git
+[submodule "OS/manual"]
+	path = OS/manual
+	url = https://github.com/Lancelotbronner/knightos-manual.git
+[submodule "Packages/bed"]
+	path = Packages/bed
+	url = https://github.com/KnightOS/bed.git
+[submodule "Packages/calcsys"]
+	path = Packages/calcsys
+	url = https://github.com/KnightOS/calcsys.git
+[submodule "Packages/calendar"]
+	path = Packages/calendar
+	url = https://github.com/KnightOS/calendar.git
+[submodule "Packages/castle"]
+	path = Packages/castle
+	url = https://github.com/KnightOS/castle.git
+[submodule "Packages/configlib"]
+	path = Packages/configlib
+	url = https://github.com/KnightOS/configlib.git
+[submodule "Packages/corelib"]
+	path = Packages/corelib
+	url = https://github.com/KnightOS/corelib.git
+[submodule "Packages/demos"]
+	path = Packages/demos
+	url = https://github.com/KnightOS/demos.git
+[submodule "Packages/fileman"]
+	path = Packages/fileman
+	url = https://github.com/KnightOS/fileman.git
+[submodule "Packages/init"]
+	path = Packages/init
+	url = https://github.com/KnightOS/init.git
+[submodule "Packages/iofsd"]
+	path = Packages/iofsd
+	url = https://github.com/KnightOS/iofsd.git
+[submodule "Packages/kpm"]
+	path = Packages/kpm
+	url = https://github.com/KnightOS/kpm.git
+[submodule "Packages/kpy"]
+	path = Packages/kpy
+	url = https://github.com/KnightOS/kpy.git
+[submodule "Packages/libc"]
+	path = Packages/libc
+	url = https://github.com/KnightOS/libc.git
+[submodule "Packages/phoenix"]
+	path = Packages/phoenix
+	url = https://github.com/KnightOS/phoenix.git
+[submodule "Packages/settings"]
+	path = Packages/settings
+	url = https://github.com/KnightOS/settings.git
+[submodule "Packages/textview"]
+	path = Packages/textview
+	url = https://github.com/KnightOS/textview.git
+[submodule "Packages/threadlist"]
+	path = Packages/threadlist
+	url = https://github.com/KnightOS/threadlist.git
+[submodule "Toolchain/genkfs"]
+	path = Toolchain/genkfs
+	url = https://github.com/Lancelotbronner/knightos-genkfs.git
+[submodule "Toolchain/kcc"]
+	path = Toolchain/kcc
+	url = https://github.com/Lancelotbronner/knightos-kcc.git
+[submodule "Toolchain/kcc2"]
+	path = Toolchain/kcc2
+	url = https://github.com/Lancelotbronner/knightos-kcc.git
+[submodule "Toolchain/kcppc"]
+	path = Toolchain/kcppc
+	url = https://github.com/Lancelotbronner/knightos-kcppc.git
+[submodule "Toolchain/kdoc"]
+	path = Toolchain/kdoc
+	url = https://github.com/Lancelotbronner/knightos-kdoc.git
+[submodule "Toolchain/kimg"]
+	path = Toolchain/kimg
+	url = https://github.com/Lancelotbronner/knightos-kimg.git
+[submodule "Toolchain/klib"]
+	path = Toolchain/klib
+	url = https://github.com/Lancelotbronner/knightos-klib.git
+[submodule "Toolchain/klib2"]
+	path = Toolchain/klib2
+	url = https://github.com/Lancelotbronner/knightos-klib.git
+[submodule "Toolchain/kpkg"]
+	path = Toolchain/kpkg
+	url = https://github.com/Lancelotbronner/knightos-kpkg.git
+[submodule "Toolchain/kpkg2"]
+	path = Toolchain/kpkg2
+	url = https://github.com/Lancelotbronner/knightos-kpkg.git
+[submodule "Toolchain/ksdk"]
+	path = Toolchain/ksdk
+	url = https://github.com/Lancelotbronner/knightos-ksdk.git
+[submodule "Toolchain/ksdk2"]
+	path = Toolchain/ksdk2
+	url = https://github.com/Lancelotbronner/knightos-ksdk.git
+[submodule "Toolchain/mkrom"]
+	path = Toolchain/mkrom
+	url = https://github.com/Lancelotbronner/knightos-mkrom.git
+[submodule "Toolchain/mktiupgrade"]
+	path = Toolchain/mktiupgrade
+	url = https://github.com/Lancelotbronner/knightos-mktiupgrade.git
+[submodule "Toolchain/OpenTI"]
+	path = Toolchain/OpenTI
+	url = https://github.com/KnightOS/OpenTI.git
+[submodule "Toolchain/patchrom"]
+	path = Toolchain/patchrom
+	url = https://github.com/KnightOS/patchrom.git
+[submodule "Toolchain/sass"]
+	path = Toolchain/sass
+	url = https://github.com/KnightOS/sass.git
+[submodule "Toolchain/scas"]
+	path = Toolchain/scas
+	url = https://github.com/Lancelotbronner/knightos-scas.git
+[submodule "Toolchain/scdoc"]
+	path = Toolchain/scdoc
+	url = https://github.com/Lancelotbronner/knightos-scdoc.git
+[submodule "Toolchain/z80e"]
+	path = Toolchain/z80e
+	url = https://github.com/Lancelotbronner/knightos-z80e.git
+[submodule "Web/knightos.org"]
+	path = Web/knightos.org
+	url = https://github.com/KnightOS/knightos.org.git
+[submodule "Web/packages.knightos.org"]
+	path = Web/packages.knightos.org
+	url = https://github.com/KnightOS/packages.knightos.org.git
+[submodule "Web/try.knightos.org"]
+	path = Web/try.knightos.org
+	url = https://github.com/KnightOS/try.knightos.org.git
