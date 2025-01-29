@@ -8,11 +8,11 @@ See [website](https://knightos.org)
 > I'm working on reviving this project, this repo is my main workspace and has submodules for every part of the ecosystem!
 >
 > Here's what I'm currently working on:
-> - Ti Simulator [z80e](https://github.com/Lancelotbronner/z80e)
-> - Package Manager [ksdk2](https://github.com/Lancelotbronner/ksdk2) (and eventually build, test and documentation)
-> - Package Manipulation Tool [kpkg2](https://github.com/Lancelotbronner/kpkg2)
-> - C23 Compiler [kcc2](https://github.com/Lancelotbronner/kcc2)
-> - Assembler [scas](https://github.com/Lancelotbronner/scas)
+> - Ti Simulator [z80e](https://github.com/Lancelotbronner/knightos-z80e)
+> - Package Manager [ksdk2](https://github.com/Lancelotbronner/knightos-ksdk) (and eventually build, test and documentation)
+> - Package Manipulation Tool [kpkg2](https://github.com/Lancelotbronner/knightos-kpkg)
+> - C23 Compiler [kcc2](https://github.com/Lancelotbronner/knightos-kcc)
+> - Assembler [scas](https://github.com/Lancelotbronner/knightos-scas)
 
 ## Table of Contents
 

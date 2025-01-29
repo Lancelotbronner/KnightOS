@@ -1,3 +1,9 @@
 Archive
 Resources
 *.xcworkspace
+
+# Unfinished Projects
+Toolchain/kfc
+Toolchain/keys
+Toolchain/kregistry
+Toolchain/ksim
